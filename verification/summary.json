@@ -1,0 +1,8 @@
+{
+  "name": "Notes App",
+  "unit": 4,
+  "device": 3,
+  "lint_errors": 0,
+  "lint_warnings": 18,
+  "testing": "Validation boundaries, literal search, SQLite CRUD and close/reopen persistence, UI add/edit/search/delete, cancellation and editor recreation."
+}
